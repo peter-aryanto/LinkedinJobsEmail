@@ -1,0 +1,4 @@
+# python -m pip install --upgrade pip
+
+python-dotenv==1.0.1
+imapclient==3.0.1
